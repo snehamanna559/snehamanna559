@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c0/94/30/c09430467c2c529bab0b8ee9e041455b.gif)])
+![MasterHead](https://i.pinimg.com/originals/c0/94/30/c09430467c2c529bab0b8ee9e041455b.gif)
 
 
 <h1 align="center">Hi 👋, I'm Sneha Manna</h1>
