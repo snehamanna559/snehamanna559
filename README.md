@@ -6,7 +6,8 @@
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehamanna559&show_icons=true&locale=en&layout=compact" alt="snehamanna559" /></p>
+<p>&emsp;<img align="left" width="497" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehamanna559&show_icons=true&locale=en&layout=compact" alt="snehamanna559" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehamanna559&show_icons=true&locale=en" alt="snehamanna559" /></p>
 
